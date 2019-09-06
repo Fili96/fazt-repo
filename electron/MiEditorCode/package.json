@@ -1,0 +1,21 @@
+{
+  "name": "editor-de-texto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.8",
+    "monaco-loader": "^0.14.0"
+  },
+  "devDependency,":{
+    "electron": "^3.0.8",
+    "electron-packager": "^12.2.0"
+  }
+}
