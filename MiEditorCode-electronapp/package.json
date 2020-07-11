@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^3.0.8",
+    "electron": "^9.1.0",
     "monaco-loader": "^0.14.0"
   },
   "devDependency,":{
